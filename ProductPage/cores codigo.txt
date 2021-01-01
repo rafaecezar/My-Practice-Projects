@@ -1,0 +1,9 @@
+cores webpage:
+menu bar and bottom: #212121
+comprar button: #009f3c
+favoritos button: #303030
+font color: #cfcfcf
+
+Botão comprar: left 11,40 cm top 13,05 cm
+Botao Carrinho: left 21,28 cm top 13,05 cm
+Estrela posição: top 6,91 cm top 15,70 cm left

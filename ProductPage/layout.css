@@ -1,0 +1,165 @@
+<style>
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}    
+head{
+    font-family: Roboto;
+}
+nav{
+    background: #212121;
+    height: 107px;
+    width: 102%;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    font-weight: bold;
+    font-family: Roboto;
+    line-height: 70px;
+    margin: 2px;
+    position: relative;
+    left: -75px;
+}
+nav ul li a{
+    color: #cfcfcf;
+    font-size: 20px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+a:hover {
+    background: grey;
+}
+.nav ul {
+    background-color: #212121;
+    background: rgba(255, 255, 255, 0);
+    list-style: none;
+    position: absolute;
+    left: -9999px
+}
+.nav ul li {
+    padding-top: 1px;
+    float: none
+}
+.nav ul a {
+    white-space: nowrap;
+}
+.nav li:hover a {
+    background-color: grey;
+    text-decoration: underline;
+}
+.nav li:hover ul a {
+    text-decoration: none;
+}
+.nav li:hover ul li a:hover {
+    background-color: #333333;
+}
+#bottom-bar {
+    height: 70px;
+    width: 102%;
+    background-color: #212121;
+    position: relative;
+    top: -100%;
+}
+.avaliação {
+    position: relative;
+    right: -15cm;
+    top: -28px;
+}
+.processador {
+    position: relative;
+    left: 7 cm;
+    top: 5cm;
+}
+h2 {
+    font-family: Roboto;
+    font: bold;
+    position: relative;
+    left: 15cm;
+    top: -1cm;
+}
+h3 {
+    font-family: Roboto;
+    font-weight: bold;
+    position: relative;
+    bottom: -50px;
+    left: 240px;
+}
+p {
+    font-family: Roboto;
+    font-size: 16px;
+    position: relative;
+    left: 240px;
+}
+h4 {
+    font-family: Roboto;
+    font-weight: bold;
+    position: relative;
+    left: 240px;
+}
+#avaliação {
+    font-family: Roboto;
+    position: relative;
+    left: 20cm;
+    top: -255px;
+}
+.info-tecnica {
+    font-family: Roboto;
+    list-style: none;
+    position: relative;
+    left: 200px;
+}
+.p {
+    line-height: 2px;
+}
+.div {
+    background: rgb(61, 61, 61);
+}
+#valor-cartao {
+    position: relative;
+    left: 320px;
+    top: -490px
+}
+.valor-cartao {
+    font-family: Roboto;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    left: 655px;
+    top: -634px;
+}
+#valor-boleto {
+    position: relative;
+    left: 810px;
+    top: -704px;
+}
+.valor-boleto {
+    font-family: Roboto;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    left: 879px;
+    top: -781px;
+}
+.comprar {
+    position: relative;
+    left: 560px;
+    top: -423px;
+}
+.carrinho {
+    position: relative;
+    left: 790px;
+    top: -820px;
+}
+body {
+    overflow-x: hidden;
+}
+body {overflow-x: hidden;}
+</style>
